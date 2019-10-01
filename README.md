@@ -40,43 +40,44 @@ The conference will take place at Nihonbashi Takashimaya Mitsui Building near To
 
 The Modelica conference will bring together people using any of the Modelica Association standards for modeling, simulation, and control applications, Modelica language designers, Modelica and/or FMI tool vendors and Modelica library developers. It provides Modelica users the opportunity to stay informed about the latest standards, library, and tool developments, and to get in touch with people working on similar modeling problems. The conference is planned for about 150 participants and will cover topics such as the following:
 
-§  Multi-engineering modeling and simulation with Modelica
 
-§  Free and commercial Modelica libraries (mechanics, electrical, hydraulics, thermal, fluid, media, chemical, building, automotive, aircraft, ...)
+*  Multi-engineering modeling and simulation with Modelica
 
-§  Automotive applications
+*  Free and commercial Modelica libraries (mechanics, electrical, hydraulics, thermal, fluid, media, chemical, building, automotive, aircraft, ...)
 
-§  Thermodynamic and energy systems applications
+*  Automotive applications
 
-§  Mechatronics and robotics applications
+*  Thermodynamic and energy systems applications
 
-§  Other industrial applications, such as electric drives, power systems, aerospace, etc.
+*  Mechatronics and robotics applications
 
-§  Real-time and hardware-in-the-loop simulation
+*  Other industrial applications, such as electric drives, power systems, aerospace, etc.
 
-§  Simulation and code generation for embedded control systems
+*  Real-time and hardware-in-the-loop simulation
 
-§  Applications of Modelica for optimization and optimal control
+*  Simulation and code generation for embedded control systems
 
-§  Modelica modeling, simulation and design tools
+*  Applications of Modelica for optimization and optimal control
 
-§  Symbolic algorithms and numerical methods for model transformation and simulation
+*  Modelica modeling, simulation and design tools
 
-§  New features for future Modelica versions
+*  Symbolic algorithms and numerical methods for model transformation and simulation
 
-§  Modelica in other application areas (mathematical programming, databases etc.)
+*  New features for future Modelica versions
 
-§  Modelica for teaching and education
+*  Modelica in other application areas (mathematical programming, databases etc.)
 
-§  New features of future FMI versions
+*  Modelica for teaching and education
 
-§  FMI in Modelica and non-Modelica applications and tools
+*  New features of future FMI versions
 
-§  Tools and applications using the SSP standard
+*  FMI in Modelica and non-Modelica applications and tools
 
-§  Tool and applications using the DCP standard
+*  Tools and applications using the SSP standard
 
-§  Digital Twins based on MA technologies
+*  Tool and applications using the DCP standard
+
+*  Digital Twins based on MA technologies
 
 In addition, the conference will include Vendors' exhibition.
 
