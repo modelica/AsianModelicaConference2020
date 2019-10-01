@@ -104,7 +104,7 @@ Registration and pricing will be available through Eventbrite, stay tuned.
 
 # Organization and Contact
 
-The conference is organized by Modelon K.K. in corporation with Dr. Yutaka Hirano and Modelica Association.
+The conference is organized by Modelon K.K. in corporation with Modelica Users Group Japan and Modelica Association.
 For more information and application, please contact modelica2020japanese@modelica.org.
 
 ## Conference Board
