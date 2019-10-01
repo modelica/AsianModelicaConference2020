@@ -18,9 +18,7 @@ General Chair (Modelon) and Program Chair (Toyota Motor Corporation)
 
 You are encouraged to submit a full paper of at least 4 pages with a maximum of 10 pages. The full paper in PDF format should be submitted to the Conference Management System. Please see Author's Guide for further information. The final paper has to be submitted together with a one-page abstract.
 
-Papers and extended abstracts for presentations can be submitted via the EasyChair conference management system:
-
-https://easychair.org/conferences/submissions?a=23279376
+Papers and extended abstracts for presentations can be [submitted](https://easychair.org/conferences/submissions?a=23279376) via the EasyChair conference management system.
 
 There, you can also read your reviews and hand in the final paper after the reviewing process has taken place. In order to submit a paper, you need to have an EasyChair account. Simply follow the provided instructions to create an account. The same account can be used for several conferences over several years. Once you have logged in, you can upload your contribution in the section: "New submissions". Simply follow the instructions.
 
@@ -40,43 +38,43 @@ The conference will take place at Nihonbashi Takashimaya Mitsui Building near To
 
 The Modelica conference will bring together people using any of the Modelica Association standards for modeling, simulation, and control applications, Modelica language designers, Modelica and/or FMI tool vendors and Modelica library developers. It provides Modelica users the opportunity to stay informed about the latest standards, library, and tool developments, and to get in touch with people working on similar modeling problems. The conference is planned for about 150 participants and will cover topics such as the following:
 
-§  Multi-engineering modeling and simulation with Modelica
+* Multi-engineering modeling and simulation with Modelica
 
-§  Free and commercial Modelica libraries (mechanics, electrical, hydraulics, thermal, fluid, media, chemical, building, automotive, aircraft, ...)
+* Free and commercial Modelica libraries (mechanics, electrical, hydraulics, thermal, fluid, media, chemical, building, automotive, aircraft, ...)
 
-§  Automotive applications
+* Automotive applications
 
-§  Thermodynamic and energy systems applications
+* Thermodynamic and energy systems applications
 
-§  Mechatronics and robotics applications
+* Mechatronics and robotics applications
 
-§  Other industrial applications, such as electric drives, power systems, aerospace, etc.
+* Other industrial applications, such as electric drives, power systems, aerospace, etc.
 
-§  Real-time and hardware-in-the-loop simulation
+* Real-time and hardware-in-the-loop simulation
 
-§  Simulation and code generation for embedded control systems
+* Simulation and code generation for embedded control systems
 
-§  Applications of Modelica for optimization and optimal control
+* Applications of Modelica for optimization and optimal control
 
-§  Modelica modeling, simulation and design tools
+* Modelica modeling, simulation and design tools
 
-§  Symbolic algorithms and numerical methods for model transformation and simulation
+* Symbolic algorithms and numerical methods for model transformation and simulation
 
-§  New features for future Modelica versions
+* New features for future Modelica versions
 
-§  Modelica in other application areas (mathematical programming, databases etc.)
+* Modelica in other application areas (mathematical programming, databases etc.)
 
-§  Modelica for teaching and education
+* Modelica for teaching and education
 
-§  New features of future FMI versions
+* New features of future FMI versions
 
-§  FMI in Modelica and non-Modelica applications and tools
+* FMI in Modelica and non-Modelica applications and tools
 
-§  Tools and applications using the SSP standard
+* Tools and applications using the SSP standard
 
-§  Tool and applications using the DCP standard
+* Tool and applications using the DCP standard
 
-§  Digital Twins based on MA technologies
+* Digital Twins based on MA technologies
 
 In addition, the conference will include Vendors' exhibition.
 
