@@ -1,4 +1,3 @@
-The 3rd Japanese Modelica Conference.
 
 The 3rd Japanese Modelica Conference (The Asian Modelica Conference 2020) will be held at Nihonbashi Takashimaya Mitsui Building, Tokyo, Japan from May 13–14, 2020. It is organized by Modelon K.K. in cooperation with Modelica Users Group Japan and Modelica Association.
 
