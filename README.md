@@ -1,5 +1,5 @@
 
-The 3rd Japanese Modelica Conference (The Asian Modelica Conference 2020) will be held at Nihonbashi Takashimaya Mitsui Building, Tokyo, Japan from May 13–14, 2020. It is organized by Modelon K.K. in cooperation with Modelica Users Group Japan and Modelica Association.
+The Asian Modelica Conference 2020 will be held at Nihonbashi Takashimaya Mitsui Building, Tokyo, Japan from May 13–14, 2020. It is organized by Modelon K.K. in cooperation with Modelica Users Group Japan and Modelica Association.
 
 # About the Conference
 
@@ -13,6 +13,11 @@ Dr. Rui Gao and Dr. Yutaka Hirano
 
 General Chair (Modelon) and Program Chair (Toyota Motor Corporation)
 
+# About the Conference
+
+The Modelica Conference is the main event for users, library developers, tool vendors and language designers to share their knowledge and learn about the latest scientific and industrial progress related to all of the system simulation standards developed and maintained by the Modelica Association, in particular Modelica , the Functional Mockup Interface (FMI), the System Structure and Parameterization (SSP) standard and the The Distributed Co-simulation Protocol (DCP) standard. 
+
+The program will cover modeling of c
 # Call for Papers
 
 You are encouraged to submit a full paper of at least 4 pages with a maximum of 10 pages. The full paper in PDF format should be submitted to the Conference Management System. Please see Author's Guide for further information. The final paper has to be submitted together with a one-page abstract.
@@ -88,7 +93,7 @@ A decision about the acceptance of sponsors and exhibitors will be based upon Mo
 
 # Important Dates
 
-November 1, 2019 Call for papere
+October 31, 2019 Call for papers
 
 January 31, 2020 Submission of full papers
 
