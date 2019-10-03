@@ -38,7 +38,7 @@ foot = \
 """<hr />
         <h2>Organized by:</h2>
         <p>
-#            <a style="border-bottom: 0px solid #ccc;" href="https://www.oth-regensburg.de/en.html"><img style="padding:5px;height:48px;width:auto;" src="%sstatic/images/OTHLogo.png" alt="OTH" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+            <a style="border-bottom: 0px solid #ccc;" href="https://www.oth-regensburg.de/en.html"><img style="padding:5px;height:48px;width:auto;" src="%sstatic/images/OTHLogo.png" alt="OTH" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
             <a style="border-bottom: 0px solid #ccc;" href="http://www.modelica.org"><img style="padding:5px;height:48px;width:auto;" src="%sstatic/images/ModelicaLogo.svg" alt="Modelica" /></a>
         </p>
         <hr />
