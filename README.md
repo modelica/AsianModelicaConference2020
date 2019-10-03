@@ -88,15 +88,15 @@ A decision about the acceptance of sponsors and exhibitors will be based upon Mo
 
 # Important Dates
 
-October 31, 2019 Call for papers
+*  October 1, 2019 Call for papers
 
-January 31, 2020 Submission of full papers
+*  January 31, 2020 Submission of full papers
 
-February 28, 2020 Notification of acceptance for papers
+*  February 28, 2020 Notification of acceptance for papers
 
-March 13, 2020 End of early registration
+*  March 13, 2020 End of early registration
 
-March 28, 2020	Submission of final papers
+*  March 28, 2020	Submission of final papers
 
 # Registration
 
@@ -109,22 +109,22 @@ For more information and application, please contact modelica2020japanese@modeli
 
 ## Conference Board
 
-Dr. Rui Gao, Modelon K.K., Tokyo, Japan
+*  Dr. Rui Gao, Modelon K.K., Tokyo, Japan
 
-Dr. Yutaka Hirano, Toyota Motor Corporation, Japan
+*  Dr. Yutaka Hirano, Toyota Motor Corporation, Japan
 
-Dr. Hilding Elmqvist, Mogram, Lund, Sweden
+*  Dr. Hilding Elmqvist, Mogram, Lund, Sweden
 
-Prof. Peter Fritzson, Linköping University, Sweden
+*  Prof. Peter Fritzson, Linköping University, Sweden
 
-Prof. Martin Otter, DLR, Germany
+*  Prof. Martin Otter, DLR, Germany
 
-Dr. Michael Tiller, Xogeny, Michigan, USA
+*  Dr. Michael Tiller, Xogeny, Michigan, USA
 
-Dr. Hubertus Tummescheit, Modelon Inc. USA
+*  Dr. Hubertus Tummescheit, Modelon Inc. USA
 
 ## Local Organization
 
-Dr. Rui Gao, Modelon K.K., Tokyo, Japan
+*  Dr. Rui Gao, Modelon K.K., Tokyo, Japan
 
-Dr. Yutaka Hirano, Toyota Motor Corporation, Japan
+*  Dr. Yutaka Hirano, Toyota Motor Corporation, Japan
