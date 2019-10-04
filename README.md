@@ -1,6 +1,5 @@
-The 3rd Japanese Modelica Conference.
 
-The 3rd Japanese Modelica Conference (The Asian Modelica Conference 2020) will be held at Nihonbashi Takashimaya Mitsui Building, Tokyo, Japan from May 13–14, 2020. It is organized by Modelon K.K. in cooperation with Modelica Users Group Japan and Modelica Association.
+The Asian Modelica Conference 2020 will be held at Nihonbashi Takashimaya Mitsui Building, Tokyo, Japan from May 13–14, 2020. It is organized by Modelon K.K. in cooperation with Modelica Users Group Japan and Modelica Association.
 
 # About the Conference
 
@@ -38,43 +37,43 @@ The conference will take place at Nihonbashi Takashimaya Mitsui Building near To
 
 The Modelica conference will bring together people using any of the Modelica Association standards for modeling, simulation, and control applications, Modelica language designers, Modelica and/or FMI tool vendors and Modelica library developers. It provides Modelica users the opportunity to stay informed about the latest standards, library, and tool developments, and to get in touch with people working on similar modeling problems. The conference is planned for about 150 participants and will cover topics such as the following:
 
-* Multi-engineering modeling and simulation with Modelica
+*  Multi-engineering modeling and simulation with Modelica
 
-* Free and commercial Modelica libraries (mechanics, electrical, hydraulics, thermal, fluid, media, chemical, building, automotive, aircraft, ...)
+*  Free and commercial Modelica libraries (mechanics, electrical, hydraulics, thermal, fluid, media, chemical, building, automotive, aircraft, ...)
 
-* Automotive applications
+*  Automotive applications
 
-* Thermodynamic and energy systems applications
+*  Thermodynamic and energy systems applications
 
-* Mechatronics and robotics applications
+*  Mechatronics and robotics applications
 
-* Other industrial applications, such as electric drives, power systems, aerospace, etc.
+*  Other industrial applications, such as electric drives, power systems, aerospace, etc.
 
-* Real-time and hardware-in-the-loop simulation
+*  Real-time and hardware-in-the-loop simulation
 
-* Simulation and code generation for embedded control systems
+*  Simulation and code generation for embedded control systems
 
-* Applications of Modelica for optimization and optimal control
+*  Applications of Modelica for optimization and optimal control
 
-* Modelica modeling, simulation and design tools
+*  Modelica modeling, simulation and design tools
 
-* Symbolic algorithms and numerical methods for model transformation and simulation
+*  Symbolic algorithms and numerical methods for model transformation and simulation
 
-* New features for future Modelica versions
+*  New features for future Modelica versions
 
-* Modelica in other application areas (mathematical programming, databases etc.)
+*  Modelica in other application areas (mathematical programming, databases etc.)
 
-* Modelica for teaching and education
+*  Modelica for teaching and education
 
-* New features of future FMI versions
+*  New features of future FMI versions
 
-* FMI in Modelica and non-Modelica applications and tools
+*  FMI in Modelica and non-Modelica applications and tools
 
-* Tools and applications using the SSP standard
+*  Tools and applications using the SSP standard
 
-* Tool and applications using the DCP standard
+*  Tool and applications using the DCP standard
 
-* Digital Twins based on MA technologies
+*  Digital Twins based on MA technologies
 
 In addition, the conference will include Vendors' exhibition.
 
@@ -86,15 +85,15 @@ A decision about the acceptance of sponsors and exhibitors will be based upon Mo
 
 # Important Dates
 
-November 1, 2019 Call for papere
+*  October 1, 2019 Call for papers
 
-January 31, 2020 Submission of full papers
+*  January 31, 2020 Submission of full papers
 
-February 28, 2020 Notification of acceptance for papers
+*  February 28, 2020 Notification of acceptance for papers
 
-March 13, 2020 End of early registration
+*  March 13, 2020 End of early registration
 
-March 28, 2020	Submission of final papers
+*  March 28, 2020	Submission of final papers
 
 # Registration
 
@@ -102,27 +101,27 @@ Registration and pricing will be available through Eventbrite, stay tuned.
 
 # Organization and Contact
 
-The conference is organized by Modelon K.K. in corporation with Dr. Yutaka Hirano and Modelica Association.
-For more information and application, please contact modelica2020japanese@modelica.org.
+The conference is organized by Modelon K.K. in corporation with Modelica Users Group Japan and Modelica Association.
+For more information and application, please contact modelica2020asian@modelica.org.
 
 ## Conference Board
 
-Dr. Rui Gao, Modelon K.K., Tokyo, Japan
+*  Dr. Rui Gao, Modelon K.K., Tokyo, Japan
 
-Dr. Yutaka Hirano, Toyota Motor Corporation, Japan
+*  Dr. Yutaka Hirano, Toyota Motor Corporation, Japan
 
-Dr. Hilding Elmqvist, Mogram, Lund, Sweden
+*  Dr. Hilding Elmqvist, Mogram, Lund, Sweden
 
-Prof. Peter Fritzson, Linköping University, Sweden
+*  Prof. Peter Fritzson, Linköping University, Sweden
 
-Prof. Martin Otter, DLR, Germany
+*  Prof. Martin Otter, DLR, Germany
 
-Dr. Michael Tiller, Xogeny, Michigan, USA
+*  Dr. Michael Tiller, Xogeny, Michigan, USA
 
-Dr. Hubertus Tummescheit, Modelon Inc. USA
+*  Dr. Hubertus Tummescheit, Modelon Inc. USA
 
 ## Local Organization
 
-Dr. Rui Gao, Modelon K.K., Tokyo, Japan
+*  Dr. Rui Gao, Modelon K.K., Tokyo, Japan
 
-Dr. Yutaka Hirano, Toyota Motor Corporation, Japan
+*  Dr. Yutaka Hirano, Toyota Motor Corporation, Japan
