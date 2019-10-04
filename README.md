@@ -1,9 +1,9 @@
 
-The Asian Modelica Conference 2020 will be held at Nihonbashi Takashimaya Mitsui Building, Tokyo, Japan from May 13–14, 2020. It is organized by Modelon K.K. in cooperation with Modelica Users Group Japan and Modelica Association.
+The Asian Modelica Conference 2020 will be held at [Nihonbashi Takashimaya Mitsui Building](https://www.nihonbashi-takashimaya-mitsui.jp/en/about/), Tokyo, Japan from May 13–14, 2020. It is organized by [Modelon K.K.](https://www.modelon.com/) in cooperation with Modelica Users Group Japan and [Modelica Association](https://www.modelica.org/).
 
 # About the Conference
 
-The Modelica Conference is the main event for users, library developers, tool vendors and language designers to share their knowledge and learn about the latest scientific and industrial progress related to all of the system simulation standards developed and maintained by the Modelica Association, in particular Modelica , the Functional Mockup Interface (FMI), the System Structure and Parameterization (SSP) standard and the The Distributed Co-simulation Protocol (DCP) standard. 
+The Modelica Conference is the main event for users, library developers, tool vendors and language designers to share their knowledge and learn about the latest scientific and industrial progress related to all of the system simulation standards developed and maintained by the Modelica Association, in particular [Modelica](https://www.modelica.org/), the [Functional Mockup Interface (FMI)](http://www.fmi-standard.org/), the [System Structure and Parameterization (SSP)](https://ssp-standard.org/) standard and the [The Distributed Co-simulation Protocol (DCP)](https://dcp-standard.org/) standard.
 
 The program will cover modeling of complex physical and cyber-physical systems, as well as tools, for a wide range of research and industrial applications.
 
