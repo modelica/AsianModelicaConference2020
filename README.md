@@ -17,9 +17,7 @@ General Chair (Modelon) and Program Chair (Toyota Motor Corporation)
 
 You are encouraged to submit a full paper of at least 4 pages with a maximum of 10 pages. The full paper in PDF format should be submitted to the Conference Management System. Please see Author's Guide for further information. The final paper has to be submitted together with a one-page abstract.
 
-Papers and extended abstracts for presentations can be submitted via the EasyChair conference management system:
-
-https://easychair.org/conferences/submissions?a=23279376
+Papers and extended abstracts for presentations can be [submitted](https://easychair.org/conferences/submissions?a=23279376) via the EasyChair conference management system.
 
 There, you can also read your reviews and hand in the final paper after the reviewing process has taken place. In order to submit a paper, you need to have an EasyChair account. Simply follow the provided instructions to create an account. The same account can be used for several conferences over several years. Once you have logged in, you can upload your contribution in the section: "New submissions". Simply follow the instructions.
 
@@ -38,7 +36,6 @@ The conference will take place at Nihonbashi Takashimaya Mitsui Building near To
 # Scope of the Conference
 
 The Modelica conference will bring together people using any of the Modelica Association standards for modeling, simulation, and control applications, Modelica language designers, Modelica and/or FMI tool vendors and Modelica library developers. It provides Modelica users the opportunity to stay informed about the latest standards, library, and tool developments, and to get in touch with people working on similar modeling problems. The conference is planned for about 150 participants and will cover topics such as the following:
-
 
 *  Multi-engineering modeling and simulation with Modelica
 
