@@ -29,7 +29,7 @@ The conference proceedings will be published by the Modelica Association on its 
 
 # Conference Venue
 
-The conference will take place at Nihonbashi Takashimaya Mitsui Building near Tokyo station, which is easier to access through Metro and JR line. Detailed access information can be found at https://www.nihonbashi-takashimaya-mitsui.jp/en/access/.
+The conference will take place at Nihonbashi Takashimaya Mitsui Building near Tokyo station, which is easier to access through Metro and JR line. Detailed access information can be found at [Access](https://www.nihonbashi-takashimaya-mitsui.jp/en/access/).
 
 **Venue Address**
 
@@ -105,7 +105,7 @@ Registration and pricing will be available through Eventbrite, stay tuned.
 # Organization and Contact
 
 The conference is organized by Modelon K.K. in corporation with Modelica Users Group Japan and Modelica Association.
-For more information and application, please contact modelica2020asian@modelica.org.
+For more information and application, please contact the [organizer](modelica2020asian@modelica.org).
 
 ## Conference Board
 
