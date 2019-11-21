@@ -19,7 +19,7 @@ You are encouraged to submit a full paper of at least 4 pages with a maximum of 
 
 Papers and extended abstracts for presentations can be submitted via the EasyChair conference management system:
 
-https://easychair.org/conferences/submissions?a=23279376
+[EasyChair AsianModelicaConference 2020](https://easychair.org/conferences/submissions?a=23279376)
 
 There, you can also read your reviews and hand in the final paper after the reviewing process has taken place. In order to submit a paper, you need to have an EasyChair account. Simply follow the provided instructions to create an account. The same account can be used for several conferences over several years. Once you have logged in, you can upload your contribution in the section: "New submissions". Simply follow the instructions.
 
