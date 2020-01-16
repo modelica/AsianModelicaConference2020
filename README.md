@@ -90,9 +90,9 @@ A decision about the acceptance of sponsors and exhibitors will be based upon Mo
 
 *  October 1, 2019 Call for papers
 
-*  January 31, 2020 Submission of full papers
+*  February 16, 2020 Submission of full papers (extended)
 
-*  February 28, 2020 Notification of acceptance for papers
+*  March 8, 2020 Notification of acceptance for papers
 
 *  March 13, 2020 End of early registration
 
@@ -100,7 +100,7 @@ A decision about the acceptance of sponsors and exhibitors will be based upon Mo
 
 # Registration
 
-Registration and pricing will be available through Eventbrite, stay tuned. 
+Early registration and pricing is available through [Eventbrite](https://www.eventbrite.com/e/asian-modelica-conference-2020-tickets-85464726297). 
 
 # Organization and Contact
 
