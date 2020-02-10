@@ -88,7 +88,7 @@ A decision about the acceptance of sponsors and exhibitors will be based upon Mo
 
 # Important Dates
 
-*  February 16, 2020 Submission of extended abstract
+*  February 16, 2020 Submission of extended abstract (if full paper is submitted, abstract can be skipped)
 
 *  March 1, 2020 Submission of full paper (extended)
 
