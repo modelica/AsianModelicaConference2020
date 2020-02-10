@@ -88,15 +88,13 @@ A decision about the acceptance of sponsors and exhibitors will be based upon Mo
 
 # Important Dates
 
-*  October 1, 2019 Call for papers
+*  February 16, 2020 Submission of extended abstract
 
-*  February 16, 2020 Submission of full papers (extended)
+*  March 1, 2020 Submission of full paper (extended)
 
-*  March 8, 2020 Notification of acceptance for papers
+*  March 22, 2020 Notification of acceptance for papers
 
-*  March 13, 2020 End of early registration
-
-*  March 28, 2020	Submission of final papers
+*  April 5, 2020	Submission of final papers
 
 # Registration
 
