@@ -96,6 +96,8 @@ A decision about the acceptance of sponsors and exhibitors will be based upon Mo
 
 *  April 5, 2020	Submission of final papers
 
+*  April 5, 2020	End of early registration
+
 # Registration
 
 Early registration and pricing is available through [Eventbrite](https://www.eventbrite.com/e/asian-modelica-conference-2020-tickets-85464726297). 
