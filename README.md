@@ -21,7 +21,13 @@ Papers and extended abstracts for presentations can be submitted via the EasyCha
 
 [EasyChair AsianModelicaConference 2020](https://easychair.org/my/conference?conf=modelica2020asian)
 
-There, you can also read your reviews and hand in the final paper after the reviewing process has taken place. In order to submit a paper, you need to have an EasyChair account. Simply follow the provided instructions to create an account. The same account can be used for several conferences over several years. Once you have logged in, please choose option "enter as an author". You can download a submission template, or upload your contribution in the section: "New submissions". Simply follow the instructions.
+There, you can also read your reviews and hand in the final paper after the reviewing process has taken place.
+In order to submit a paper, you need to have an EasyChair account.
+Simply follow the provided instructions to create an account.
+The same account can be used for several conferences over several years.
+Once you have logged in, please choose option "enter as an author".
+You can download the submission templates through easychair or here ([abstract](cfp/abstract-templates-Modelica2020Asian.zip), [paper](cfp/conference-templates-Modelica2020Asian.zip)), or upload your contribution in the section: "New submissions".
+Simply follow the instructions.
 
 The paper submission form includes the option to mark suitable topics for your paper. Please use this feature since it helps us to find suitable reviewers for your paper. Furthermore, there is the option to attach a .zip file to your paper. In this way, you can provide example models that correspond to your paper.
 
@@ -94,13 +100,13 @@ A decision about the acceptance of sponsors and exhibitors will be based upon Mo
 
 *  March 22, 2020 Notification of acceptance for papers
 
-*  April 5, 2020	Submission of final papers
+*  April 5, 2020  Submission of final papers
 
-*  April 5, 2020	End of early registration
+*  April 5, 2020  End of early registration
 
 # Registration
 
-Early registration and pricing is available through [Eventbrite](https://www.eventbrite.com/e/asian-modelica-conference-2020-tickets-85464726297). 
+Early registration and pricing is available through [Eventbrite](https://www.eventbrite.com/e/asian-modelica-conference-2020-tickets-85464726297).
 
 # Organization and Contact
 
