@@ -12,7 +12,7 @@ The new date of the conference will be provided with at least 2 months notice ti
 
 We apologize for the inconvenience to your travel plan. Thank you for your understanding. We hope that you and your families remain safe and healthy until we see you later this year in Tokyo.
 
-##       
+-----------------------------------------------------------------     
 
 
 The Asian Modelica Conference 2020 will be held at [Nihonbashi Takashimaya Mitsui Building](https://www.nihonbashi-takashimaya-mitsui.jp/en/about/), Tokyo, Japan from May 13–14, 2020. It is organized by [Modelon K.K.](https://www.modelon.com/) in cooperation with Modelica Users Group Japan and [Modelica Association](https://www.modelica.org/).
