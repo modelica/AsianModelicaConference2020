@@ -1,4 +1,19 @@
 
+# Important Update: Conference postponed
+
+In light of the extensive spread of the COVID-19 virus and the rapidly changing and uncertain situation, conference board decided to **postpone** the Asian Modelica Conference to Fall 2020 or later. To mitigate the impact and avoid the confusion, following measurement will be taken from 22, March, 2020.
+*  Notify the sponsors of the postpone
+*  Notify authors of the review result
+*  Update the conference page
+*  Suspend the registration at Eventbrite
+
+We appreciate the effort invested by the program committee, authors, organizer, sponsors, and all relevant people up to now.
+The new date of the conference will be provided with at least 2 months notice time.
+
+We apologize for the inconvenience to your travel plan. Thank you for your understanding. We hope that you and your families remain safe and healthy until we see you later this year in Tokyo.
+
+#
+
 The Asian Modelica Conference 2020 will be held at [Nihonbashi Takashimaya Mitsui Building](https://www.nihonbashi-takashimaya-mitsui.jp/en/about/), Tokyo, Japan from May 13–14, 2020. It is organized by [Modelon K.K.](https://www.modelon.com/) in cooperation with Modelica Users Group Japan and [Modelica Association](https://www.modelica.org/).
 
 # About the Conference
