@@ -1,9 +1,9 @@
 
 ## Important Update: Conference postponed
 
-In light of the extensive spread of the COVID-19 virus and the rapidly changing and uncertain situation, conference board decided to **postpone** the Asian Modelica Conference to Fall 2020 or later. To mitigate the impact and avoid the confusion, following measurement will be taken from 22, March, 2020.
+In light of the extensive spread of the COVID-19 virus and the rapidly changing and uncertain situation, conference board decided to **postpone** the Asian Modelica Conference to Fall 2020 or later. To mitigate the impact and avoid the confusion, following measurement will be taken from 23, March, 2020.
 *  Notify the sponsors of the postpone
-*  Notify authors of the review result
+*  Notify authors of the review result (postponed to 5, April)
 *  Update the conference page
 *  Suspend the registration at Eventbrite
 
