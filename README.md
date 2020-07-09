@@ -111,7 +111,7 @@ A decision about the acceptance of sponsors and exhibitors will be based upon Mo
 
 # Registration
 
-Early registration and pricing is available through [Eventbrite](https://www.eventbrite.com/e/asian-modelica-conference-2020-tickets-85464726297).
+Early registration and pricing will be available soon through [Eventbrite](https://www.eventbrite.com/e/asian-modelica-conference-2020-tickets-85464726297).
 
 # Organization and Contact
 
