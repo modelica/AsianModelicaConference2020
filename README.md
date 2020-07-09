@@ -1,21 +1,10 @@
 
-## Important Update: Conference postponed
-
-In light of the extensive spread of the COVID-19 virus and the rapidly changing and uncertain situation, conference board decided to **postpone** the Asian Modelica Conference to Fall 2020 or later. To mitigate the impact and avoid the confusion, following measurement will be taken from 23, March, 2020.
-*  Notify the sponsors of the postpone
-*  Notify authors of the review result (postponed to 5, April)
-*  Update the conference page
-*  Suspend the registration at Eventbrite
-
-We appreciate the effort invested by the program committee, authors, organizer, sponsors, and all relevant people up to now.
-The new date of the conference will be provided with at least 2 months notice time.
-
-We apologize for the inconvenience to your travel plan. Thank you for your understanding. We hope that you and your families remain safe and healthy until we see you later this year in Tokyo.
+## Important Update: Conference new date decided
 
 -----------------------------------------------------------------     
 
 
-The Asian Modelica Conference 2020 will be held at [Nihonbashi Takashimaya Mitsui Building](https://www.nihonbashi-takashimaya-mitsui.jp/en/about/), Tokyo, Japan from May 13–14, 2020. It is organized by [Modelon K.K.](https://www.modelon.com/) in cooperation with Modelica Users Group Japan and [Modelica Association](https://www.modelica.org/).
+The Asian Modelica Conference 2020 will be held at [Nihonbashi Takashimaya Mitsui Building](https://www.nihonbashi-takashimaya-mitsui.jp/en/about/), Tokyo, Japan from October 8–9, 2020. It is organized by [Modelon K.K.](https://www.modelon.com/) in cooperation with Modelica Users Group Japan and [Modelica Association](https://www.modelica.org/). 
 
 # About the Conference
 
@@ -51,7 +40,7 @@ The conference proceedings will be published by the Modelica Association on its 
 
 # Conference Venue
 
-The conference will take place at Nihonbashi Takashimaya Mitsui Building near Tokyo station, which is easier to access through Metro and JR line. Detailed access information can be found at [Access](https://www.nihonbashi-takashimaya-mitsui.jp/en/access/)
+The conference will take place at Nihonbashi Takashimaya Mitsui Building near Tokyo station, which is easier to access through Metro and JR line. Detailed access information can be found at [Access](https://www.nihonbashi-takashimaya-mitsui.jp/en/access/). Preventive measures against the virus will be taken on the premise and up to 50% capacity of venue will be used for the conference.
 
 **Venue Address**
 
@@ -118,7 +107,7 @@ A decision about the acceptance of sponsors and exhibitors will be based upon Mo
 
 *  April 5, 2020  Submission of final papers
 
-*  April 5, 2020  End of early registration
+*  September 7, 2020  End of early registration
 
 # Registration
 
