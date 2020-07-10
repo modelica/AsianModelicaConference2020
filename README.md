@@ -48,7 +48,7 @@ The conference will take place at Nihonbashi Takashimaya Mitsui Building near To
 
 # Scope of the Conference
 
-The Modelica conference will bring together people using any of the Modelica Association standards for modeling, simulation, and control applications, Modelica language designers, Modelica and/or FMI tool vendors and Modelica library developers. It provides Modelica users the opportunity to stay informed about the latest standards, library, and tool developments, and to get in touch with people working on similar modeling problems. The conference is planned for about 150 participants and will cover topics such as the following:
+The Modelica conference will bring together people using any of the Modelica Association standards for modeling, simulation, and control applications, Modelica language designers, Modelica and/or FMI tool vendors and Modelica library developers. It provides Modelica users the opportunity to stay informed about the latest standards, library, and tool developments, and to get in touch with people working on similar modeling problems. The conference is planned for about 90 participants and will cover topics such as the following:
 
 
 *  Multi-engineering modeling and simulation with Modelica
