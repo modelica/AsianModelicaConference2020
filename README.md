@@ -105,7 +105,7 @@ A decision about the acceptance of sponsors and exhibitors will be based upon Mo
 
 *  March 22, 2020 Notification of acceptance for papers
 
-*  April 5, 2020  Submission of final papers
+*  August 7, 2020  Submission of final papers
 
 *  September 7, 2020  End of early registration
 
