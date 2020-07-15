@@ -1,6 +1,6 @@
 <html>
 <p><h3>Thursday October 8</h3></p>
-<table cellspacing="0" cellpadding="1" border="1" width="60%"><tr>
+<table cellspacing="0" cellpadding="1" border="1" width="70%"><tr>
 <th><p>Start</p></th>
 <th><p>End</p></th>
 <th width="70%"><p>Conference Hall</p></th>
@@ -133,16 +133,15 @@
 <td><p>Closing the conference</p></td>
 </tr>
 </table>
-</div>
-
-<table cellspacing="0" cellpadding="1" border="0"><tr>
+<p><h3>Program </h3></p>
+<table style="height:auto; width:100%; margin:0px auto;" border=1><tr>
 <th style="background-color: #e6e6e6"><p><span style="background-color: #e6e6e6;">Sessions </span></p></th>
 <th style="background-color: #e6e6e6"><p><span style="background-color: #e6e6e6;">Paper title </span></p></th>
 <th style="background-color: #e6e6e6"><p><span style="background-color: #e6e6e6;">Authors </span></p></th>
 </tr>
 <tr>
 <td rowspan="5" style="background-color: #ffffff"><p><span style="background-color: #ffffff;">&nbsp; Session 1 </span></p></td>
-<td style="background-color: #ffffff"><p align="left"><span style="background-color: #ffffff;">&nbsp;<h4> Mechanical Systems</h4></span></p></td>
+<td style="background-color: #ffffff"><p align="left"><span style="background-color: #ffffff;">&nbsp;<h5> Mechanical Systems</h5></span></p></td>
 <td style="background-color: #ffffff"><p><span style="background-color: #ffffff;">&nbsp; </span></p></td>
 </tr>
 <tr>
@@ -167,7 +166,6 @@
 <td style="background-color: #ffffff"><p align="left"><span style="background-color: #ffffff;">&nbsp; <h4>Mechanical and Power Systems</h4></span></p></td>
 <td style="background-color: #ffffff"><p><span style="background-color: #ffffff;">&nbsp; </span></p></td>
 </tr>
-
 <tr>
 <td style="background-color: #ffffff"><p><span style="background-color: #ffffff;">&nbsp; Reinforcement Learning for Thermostatically Controlled Loads Control using Modelica and Python</span></p></td>
 <td style="background-color: #ffffff"><p align="left"><span style="background-color: #ffffff;">&nbsp; Oleh Lukianykhin and Tetiana Bogodorova</span></p></td>
@@ -184,7 +182,6 @@
 <td style="background-color: #ffffff"><p><span style="background-color: #ffffff;">&nbsp; Q&A </span></p></td>
 <td style="background-color: #ffffff"><p><span style="background-color: #ffffff;">&nbsp; Presenters of Session 2</span></p></td>
 </tr>
-
 <tr>
 <td rowspan="5" style="background-color: #ffffff"><p><span style="background-color: #ffffff;">&nbsp; Session 3 </span></p></td>
 <td style="background-color: #ffffff"><p align="left"><span style="background-color: #ffffff;">&nbsp; <h4>Mechanical and Environmental Control</h4></span></p></td>
@@ -227,7 +224,6 @@
 <td style="background-color: #ffffff"><p><span style="background-color: #ffffff;">&nbsp; Modelon Solution Introduction</span></p></td>
 <td style="background-color: #ffffff"><p><span style="background-color: #ffffff;">&nbsp; </span></p></td>
 </tr>
-
 <tr>
 <td rowspan="5" style="background-color: #ffffff"><p><span style="background-color: #ffffff;">&nbsp; Session 4 </span></p></td>
 <td style="background-color: #ffffff"><p align="left"><span style="background-color: #ffffff;">&nbsp; <h4>Energy and Process</h4></span></p></td>
@@ -249,7 +245,6 @@
 <td style="background-color: #ffffff"><p><span style="background-color: #ffffff;">&nbsp; Q&A </span></p></td>
 <td style="background-color: #ffffff"><p><span style="background-color: #ffffff;">&nbsp; Presenters of Session 4</span></p></td>
 </tr>
-
 <tr>
 <td rowspan="5" style="background-color: #ffffff"><p><span style="background-color: #ffffff;">&nbsp; Session 5 </span></p></td>
 <td style="background-color: #ffffff"><p align="left"><span style="background-color: #ffffff;">&nbsp; <h4>Mechatronics</h4></span></p></td>
@@ -271,7 +266,6 @@
 <td style="background-color: #ffffff"><p><span style="background-color: #ffffff;">&nbsp; Q&A </span></p></td>
 <td style="background-color: #ffffff"><p><span style="background-color: #ffffff;">&nbsp; Presenters of Session 5</span></p></td>
 </tr>
-
 <tr>
 <td rowspan="5" style="background-color: #ffffff"><p><span style="background-color: #ffffff;">&nbsp; Session 6 </span></p></td>
 <td style="background-color: #ffffff"><p align="left"><span style="background-color: #ffffff;">&nbsp; <h4>Tools and Robotics</h4></span></p></td>
