@@ -1,3 +1,4 @@
+<div style="overflow-x:auto;">
 <p><h3>Thursday October 8</h3></p>
 <table cellspacing="0" cellpadding="2" border="1" width="60%"><tr>
 <th><p>Start</p></th>
