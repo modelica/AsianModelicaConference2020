@@ -1,6 +1,6 @@
 <html>
 <p><h3>Thursday October 8</h3></p>
-<table cellspacing="0" cellpadding="1" border="1" width="70%"><tr>
+<table style="height:auto; width:60%; margin:0px auto;" border=1><tr>
 <th><p>Start</p></th>
 <th><p>End</p></th>
 <th width="70%"><p>Conference Hall</p></th>
@@ -77,7 +77,7 @@
 </tr>
 </table>
 <p><h3>Friday, October 9</h3></p>
-<table cellspacing="0" cellpadding="1" border="1" width="60%"><tr>
+<table style="height:auto; width:60%; margin:0px auto;" border=1><tr>  
 <th><p>Start</p></th>
 <th><p>End</p></th>
 <th width="70%"><p>Conference Hall</p></th>
@@ -160,7 +160,6 @@
 <td style="background-color: #ffffff"><p><span style="background-color: #ffffff;">&nbsp; Q&A </span></p></td>
 <td style="background-color: #ffffff"><p><span style="background-color: #ffffff;">&nbsp; Presenters of Session 1</span></p></td>
 </tr>
-
 <tr>
 <td rowspan="5" style="background-color: #ffffff"><p><span style="background-color: #ffffff;">&nbsp; Session 2 </span></p></td>
 <td style="background-color: #ffffff"><p align="left"><span style="background-color: #ffffff;">&nbsp; <h4>Mechanical and Power Systems</h4></span></p></td>
