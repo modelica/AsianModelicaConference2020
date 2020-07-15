@@ -1,6 +1,6 @@
 <html>
 <p><h3>Thursday October 8</h3></p>
-<table cellspacing="1" cellpadding="1" border="0">
+<table cellspacing="1" cellpadding="1" border="1" width="60%">
 <tr>
 <th><p>Start</p></th>
 <th><p>End</p></th>
@@ -78,7 +78,7 @@
 </tr>
 </table>
 <p><h3>Friday, October 9</h3></p>
-<table cellspacing="1" cellpadding="1" border="0">
+<table cellspacing="1" cellpadding="1" border="1" width="60%">
 <tr> 
 <th><p>Start</p></th>
 <th><p>End</p></th>
@@ -136,7 +136,8 @@
 </tr>
 </table>
 <p><h3>Program </h3></p>
-<table cellspacing="1" cellpadding="1" border="0"><tr>
+<table cellspacing="1" cellpadding="1" border="1" width="100%">
+<tr>
 <th style="background-color: #e6e6e6"><p><span style="background-color: #e6e6e6;">Sessions </span></p></th>
 <th style="background-color: #e6e6e6"><p><span style="background-color: #e6e6e6;">Paper title </span></p></th>
 <th style="background-color: #e6e6e6"><p><span style="background-color: #e6e6e6;">Authors </span></p></th>
