@@ -1,7 +1,6 @@
 <html>
-<div style="overflow-x:auto;">
 <p><h3>Thursday October 8</h3></p>
-<table cellspacing="0" cellpadding="2" border="1" width="60%"><tr>
+<table cellspacing="0" cellpadding="1" border="1" width="60%"><tr>
 <th><p>Start</p></th>
 <th><p>End</p></th>
 <th width="70%"><p>Conference Hall</p></th>
@@ -78,7 +77,7 @@
 </tr>
 </table>
 <p><h3>Friday, October 9</h3></p>
-<table cellspacing="0" cellpadding="2" border="1" width="60%"><tr>
+<table cellspacing="0" cellpadding="1" border="1" width="60%"><tr>
 <th><p>Start</p></th>
 <th><p>End</p></th>
 <th width="70%"><p>Conference Hall</p></th>
@@ -136,7 +135,7 @@
 </table>
 </div>
 
-<table cellspacing="1" cellpadding="3" border="0"><tr>
+<table cellspacing="0" cellpadding="1" border="0"><tr>
 <th style="background-color: #e6e6e6"><p><span style="background-color: #e6e6e6;">Sessions </span></p></th>
 <th style="background-color: #e6e6e6"><p><span style="background-color: #e6e6e6;">Paper title </span></p></th>
 <th style="background-color: #e6e6e6"><p><span style="background-color: #e6e6e6;">Authors </span></p></th>
@@ -207,10 +206,9 @@
 <td style="background-color: #ffffff"><p><span style="background-color: #ffffff;">&nbsp; Q&A </span></p></td>
 <td style="background-color: #ffffff"><p><span style="background-color: #ffffff;">&nbsp; Presenters of Session 3</span></p></td>
 </tr>
-
 <tr>
-<td rowspan="5" style="background-color: #ffffff"><p><span style="background-color: #ffffff;">&nbsp; <h4>Vendor Session </h4></span></p></td>
-<td style="background-color: #ffffff"><p align="left"><span style="background-color: #ffffff;">&nbsp; </span></p></td>
+<td rowspan="5" style="background-color: #ffffff"><p><span style="background-color: #ffffff;">&nbsp; Vendor Session </span></p></td>
+<td style="background-color: #ffffff"><p align="left"><span style="background-color: #ffffff;">&nbsp; <h4>Vendor Solution </h4> </span></p></td>
 <td style="background-color: #ffffff"><p><span style="background-color: #ffffff;">&nbsp; </span></p></td>
 </tr>
 <tr>
