@@ -1,4 +1,4 @@
-<p><h3>Wednesday May 13 2020</h3></p>
+<p><h3>Thursday October 8</h3></p>
 <table cellspacing="0" cellpadding="2" border="1" width="60%"><tr>
 <th><p>Start</p></th>
 <th><p>End</p></th>
