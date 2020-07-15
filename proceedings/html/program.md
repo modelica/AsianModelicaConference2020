@@ -158,7 +158,7 @@
 </tr>
 <tr>
 <td style="background-color: #ffffff"><p><span style="background-color: #ffffff;">&nbsp; Q&A </span></p></td>
-<td style="background-color: #ffffff"><p><span style="background-color: #ffffff;">&nbsp; Presenters of Session 1</span></p></td>
+<td style="background-color: #ffffff"><p><span style="background-color: #ffffff;">&nbsp; Presenters</span></p></td>
 </tr>
 <tr>
 <td rowspan="5" style="background-color: #ffffff"><p><span style="background-color: #ffffff;">&nbsp; Session 2 </span></p></td>
@@ -179,7 +179,7 @@
 </tr>
 <tr>
 <td style="background-color: #ffffff"><p><span style="background-color: #ffffff;">&nbsp; Q&A </span></p></td>
-<td style="background-color: #ffffff"><p><span style="background-color: #ffffff;">&nbsp; Presenters of Session 2</span></p></td>
+<td style="background-color: #ffffff"><p><span style="background-color: #ffffff;">&nbsp; Presenters</span></p></td>
 </tr>
 <tr>
 <td rowspan="5" style="background-color: #ffffff"><p><span style="background-color: #ffffff;">&nbsp; Session 3 </span></p></td>
@@ -200,7 +200,7 @@
 </tr>
 <tr>
 <td style="background-color: #ffffff"><p><span style="background-color: #ffffff;">&nbsp; Q&A </span></p></td>
-<td style="background-color: #ffffff"><p><span style="background-color: #ffffff;">&nbsp; Presenters of Session 3</span></p></td>
+<td style="background-color: #ffffff"><p><span style="background-color: #ffffff;">&nbsp; Presenters</span></p></td>
 </tr>
 <tr>
 <td rowspan="5" style="background-color: #ffffff"><p><span style="background-color: #ffffff;">&nbsp; Vendor Session </span></p></td>
@@ -242,7 +242,7 @@
 </tr>
 <tr>
 <td style="background-color: #ffffff"><p><span style="background-color: #ffffff;">&nbsp; Q&A </span></p></td>
-<td style="background-color: #ffffff"><p><span style="background-color: #ffffff;">&nbsp; Presenters of Session 4</span></p></td>
+<td style="background-color: #ffffff"><p><span style="background-color: #ffffff;">&nbsp; Presenters</span></p></td>
 </tr>
 <tr>
 <td rowspan="5" style="background-color: #ffffff"><p><span style="background-color: #ffffff;">&nbsp; Session 5 </span></p></td>
@@ -263,7 +263,7 @@
 </tr>
 <tr>
 <td style="background-color: #ffffff"><p><span style="background-color: #ffffff;">&nbsp; Q&A </span></p></td>
-<td style="background-color: #ffffff"><p><span style="background-color: #ffffff;">&nbsp; Presenters of Session 5</span></p></td>
+<td style="background-color: #ffffff"><p><span style="background-color: #ffffff;">&nbsp; Presenters</span></p></td>
 </tr>
 <tr>
 <td rowspan="5" style="background-color: #ffffff"><p><span style="background-color: #ffffff;">&nbsp; Session 6 </span></p></td>
@@ -284,7 +284,7 @@
 </tr>
 <tr>
 <td style="background-color: #ffffff"><p><span style="background-color: #ffffff;">&nbsp; Q&A </span></p></td>
-<td style="background-color: #ffffff"><p><span style="background-color: #ffffff;">&nbsp; Presenters of Session 6</span></p></td>
+<td style="background-color: #ffffff"><p><span style="background-color: #ffffff;">&nbsp; Presenters </span></p></td>
 </tr>
 </table>
 </html>
