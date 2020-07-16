@@ -164,7 +164,7 @@
 <tr><td>&nbsp;<span style="font-style:italic">   Dirk Zimmer, Niels Weber and Peter Eschenbacher</span></td></tr>
 <tr><td>&nbsp; 4. Q&A to Session 3</td></tr>
 
-<tr><td><p align="left"><span>&nbsp; <h4>Vendor Session: Vendor Solution </h4> </span></p></td></tr>
+<tr><td><p align="left"><span>&nbsp; <h4>Vendor Session</h4> </span></p></td></tr>
 <tr><td>&nbsp; 1. AVL Solution Introduction</td></tr>
 <tr><td>&nbsp; 2. MapleSoft Solution Introduction</td></tr>
 <tr><td>&nbsp; 3. SCSK  Solution Introduction</td></tr>
