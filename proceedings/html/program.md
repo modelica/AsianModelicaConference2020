@@ -2,9 +2,9 @@
 <p><h3>Thursday, October 8</h3></p>
 <table cellspacing="0" cellpadding="0" border="0" width="100%">
 <tr>
-<th style="background-color: #e6e6e6"><p><span style="background-color: #e6e6e6;"><p>Start</p></th>
-<th style="background-color: #e6e6e6"><p><span style="background-color: #e6e6e6;"><p>End</p></th>
-<th style="background-color: #e6e6e6"><p><span style="background-color: #e6e6e6;" width="70%"><p>Conference Hall</p></th>
+<th style="background-color: #e6e6e6"><p><span style="background-color: #e6e6e6;">Start</span></p></th>  
+<th style="background-color: #e6e6e6"><p><span style="background-color: #e6e6e6;">End</span></p></th>
+<th style="background-color: #e6e6e6"> <p><span style="background-color: #e6e6e6;" width="70%">Conference Hall</span></p></th>
 </tr>
 <tr>
 <td><p>9:00</p></td>
@@ -80,9 +80,9 @@
 <p><h3>Friday, October 9</h3></p>
 <table cellspacing="0" cellpadding="0" border="0" width="100%">
 <tr> 
-<th style="background-color: #e6e6e6"><p><span style="background-color: #e6e6e6;"><p>Start</p></th>
-<th style="background-color: #e6e6e6"><p><span style="background-color: #e6e6e6;"><p>End</p></th>
-<th style="background-color: #e6e6e6"><p><span style="background-color: #e6e6e6;" width="70%"><p>Conference Hall</p></th>
+<th style="background-color: #e6e6e6"><p><span style="background-color: #e6e6e6;">Start</span></p></th>  
+<th style="background-color: #e6e6e6"><p><span style="background-color: #e6e6e6;">End</span></p></th>
+<th style="background-color: #e6e6e6"> <p><span style="background-color: #e6e6e6;" width="70%">Conference Hall</span></p></th>
 </tr>
 <tr>
 <td><p>9:00</p></td>
