@@ -135,8 +135,8 @@
 <td><p>Closing the conference</p></td>
 </tr>
 </table>
-<p><h3>Program </h3></p>
 <table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr><th style="background-color: #e6e6e6"><p align="left"><span style="background-color: #e6e6e6;"><h3>Program</h3></span></p></th></tr>  
 <tr><td><p align="left"><span>&nbsp;<h4> Session 1: Mechanical Systems</h4></span></p></td></tr>
 <tr><td>&nbsp; 1. Introducing the Virtual Systems Interface for Dynamic Coupling of Continuous Time Systems with Discontinuities</td></tr>
 <tr><td>&nbsp;<span style="font-style:italic">   Jeffrey Morgan and Bruno Loyer</span></td></tr>
@@ -195,7 +195,6 @@
 <tr><td>&nbsp;<span style="font-style:italic">   John Tinnerholm, Adrian Pop, Martin Sjölund, Andreas Heuermann and Karim Abdelhak</span></td></tr>
 <tr><td>&nbsp; 3. The DLR Robots library – Using replaceable packages to simulate various serial robots</td></tr>
 <tr><td>&nbsp;<span style="font-style:italic">   Tobias Bellmann, Andreas Seefried and Bernhard Thiele</span></td></tr>
-<tr><td>&nbsp;<i>Tobias Bellmann, Andreas Seefried and Bernhard Thiele</i></td></tr>
 <tr><td>&nbsp; 4. Q&A to Session 6</td></tr>
 </table>
 </html>
