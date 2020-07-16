@@ -195,6 +195,7 @@
 <tr><td>&nbsp;<span style="font-style:italic">   John Tinnerholm, Adrian Pop, Martin Sjölund, Andreas Heuermann and Karim Abdelhak</span></td></tr>
 <tr><td>&nbsp; 3. The DLR Robots library – Using replaceable packages to simulate various serial robots</td></tr>
 <tr><td>&nbsp;<span style="font-style:italic">   Tobias Bellmann, Andreas Seefried and Bernhard Thiele</span></td></tr>
+<tr><td>&nbsp;<i>Tobias Bellmann, Andreas Seefried and Bernhard Thiele</i></td></tr>
 <tr><td>&nbsp; 4. Q&A to Session 6</td></tr>
 </table>
 </html>
