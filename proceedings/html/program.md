@@ -141,7 +141,7 @@
 <tr><td>&nbsp; 1. Introducing the Virtual Systems Interface for Dynamic Coupling of Continuous Time Systems with Discontinuities</td></tr>
 <tr><td>&nbsp;<span style="font-style:italic">   Jeffrey Morgan and Bruno Loyer</span></td></tr>
 <tr><td>&nbsp; 2. Timoshenko Beam based Coupled Torsion Beam Axle Modeling Method</td></tr>
-<tr><td>&nbsp;<span style="font-style:italic">   Minsoo Hyun and Jingyu Moon</span></td></tr>
+<tr><td>&nbsp;<span style="font-style:italic">   Minsoo Hyun, Jingyu Moon, Daeoh Kang and Seungjin Heo</span></td></tr>
 <tr><td>&nbsp; 3. Vehicle Dynamics Model With Non Linear Bush Model and Tire Filter for Ride Comfort Analysis</td></tr>
 <tr><td>&nbsp;<span style="font-style:italic">   Jaehun Jo, Daeoh Kang, Gwangwoo Lee and Seungjin Heo</span></td></tr>
 <tr><td>&nbsp; 4. Q&A to Session 1</td></tr>
@@ -150,7 +150,7 @@
 <tr><td>&nbsp; 1. Reinforcement Learning for Thermostatically Controlled Loads Control using Modelica and Python</td></tr>
 <tr><td>&nbsp;<span style="font-style:italic">   Oleh Lukianykhin and Tetiana Bogodorova</span></td></tr>
 <tr><td>&nbsp; 2. A Model Based Approach for Simulation and Optimization of Microgrids</td></tr>
-<tr><td>&nbsp;<span style="font-style:italic">   Stephane Velut, Johan Andreasson and Jiri Navratil</span></td></tr>
+<tr><td>&nbsp;<span style="font-style:italic">   Stephane Velut, Johan Andreasson, Jiri Navratil and Marcus Åberg</span></td></tr>
 <tr><td>&nbsp; 3. Modelling and Control of Fast-Switching Solenoid Direct Injection Valves</td></tr>
 <tr><td>&nbsp;<span style="font-style:italic">   Julian Mühlenhoff</span></td></tr>
 <tr><td>&nbsp; 4. Q&A to Session 2</td></tr>
@@ -159,7 +159,7 @@
 <tr><td>&nbsp; 1. Simulating the Dynamics of a Chain Suspended Sub-sea Load Using Modified Components from the Modelica MultiBody Library</td></tr>
 <tr><td>&nbsp;<span style="font-style:italic">   Savin Viswanathan and Christian Holden</span></td></tr>
 <tr><td>&nbsp; 2. Collaborative Development and Simulation of an Aircraft Hydraulic Actuator Model</td></tr>
-<tr><td>&nbsp;<span style="font-style:italic">   Clément Coïc</span></td></tr>
+<tr><td>&nbsp;<span style="font-style:italic">   Clément Coïc, Johan Andreasson, Johan Akesson, Anand Pitchaikani and Hemanth Sattenapalli</span></td></tr>
 <tr><td>&nbsp; 3. Real-Time Simulation of an Aircraft Electric Driven Environmental Control System for Virtual Testing Purposes</td></tr>
 <tr><td>&nbsp;<span style="font-style:italic">   Dirk Zimmer, Niels Weber and Peter Eschenbacher</span></td></tr>
 <tr><td>&nbsp; 4. Q&A to Session 3</td></tr>
