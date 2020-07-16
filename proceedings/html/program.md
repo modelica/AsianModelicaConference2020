@@ -85,54 +85,54 @@
 <th style="background-color: #e6e6e6"> <p><span style="background-color: #e6e6e6;" width="70%">Conference Hall</span></p></th>
 </tr>
 <tr>
-<td><p>9:00</p></td>
-<td><p>9:30</p></td>
-<td><p>Registration</p></td>
+<td>9:00</td>
+<td>9:30</td>
+<td>Registration</td>
 </tr>
 <tr>
-<td><p>9:30</p></td>
-<td><p>10:30</p></td>
-<td><p>Keynote</p></td>
+<td>9:30</td>
+<td>10:30</td>
+<td>Keynote</td>
 </tr>
 <tr>
-<td><p>10:30</p></td>
-<td><p>10:45</p></td>
-<td><p>Break</p></td>
+<td>10:30</td>
+<td>10:45</td>
+<td>Break</td>
 </tr>
 <tr>
-<td><p>10:45</p></td>
-<td><p>11:45</p></td>
-<td><p>Session 4</p></td>
+<td>10:45</td>
+<td>11:45</td>
+<td>Session 4</td>
 </tr>
 <tr>
-<td><p>11:45</p></td>
-<td><p>13:30</p></td>
-<td><p>Lunch</p></td>
+<td>11:45</td>
+<td>13:30</td>
+<td>Lunch</td>
 </tr>
 <tr>
-<td><p>13:30</p></td>
-<td><p>14:30</p></td>
-<td><p>Session 5</p></td>
+<td>13:30</td>
+<td>14:30</td>
+<td>Session 5</td>
 </tr>
 <tr>
-<td><p>14:30</p></td>
-<td><p>14:45</p></td>
-<td><p>Break</p></td>
+<td>14:30</td>
+<td>14:45</td>
+<td>Break</td>
 </tr>
 <tr>
-<td><p>14:45</p></td>
-<td><p>15:45</p></td>
-<td><p>Session 6</p></td>
+<td>14:45</td>
+<td>15:45</td>
+<td>Session 6</td>
 </tr>
 <tr>
-<td><p>15:45</p></td>
-<td><p>16:15</p></td>
-<td><p>Exhibition</p></td>
+<td>15:45</td>
+<td>16:15</td>
+<td>Exhibition</td>
 </tr>
 <tr>
-<td><p>16:15</p></td>
-<td><p>16:30</p></td>
-<td><p>Closing the conference</p></td>
+<td>16:15</td>
+<td>16:30</td>
+<td>Closing the conference</td>
 </tr>
 </table>
 <table cellspacing="0" cellpadding="0" border="0" width="100%">
