@@ -1,10 +1,10 @@
 <html>
-<p><h3>Thursday October 8</h3></p>
-<table cellspacing="1" cellpadding="1" border="1" width="60%">
+<p><h3>Thursday, October 8</h3></p>
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
 <tr>
-<th><p>Start</p></th>
-<th><p>End</p></th>
-<th width="70%"><p>Conference Hall</p></th>
+<th style="background-color: #e6e6e6"><p><span style="background-color: #e6e6e6;"><p>Start</p></th>
+<th style="background-color: #e6e6e6"><p><span style="background-color: #e6e6e6;"><p>End</p></th>
+<th style="background-color: #e6e6e6"><p><span style="background-color: #e6e6e6;" width="70%"><p>Conference Hall</p></th>
 </tr>
 <tr>
 <td><p>9:00</p></td>
@@ -78,11 +78,11 @@
 </tr>
 </table>
 <p><h3>Friday, October 9</h3></p>
-<table cellspacing="1" cellpadding="1" border="1" width="60%">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
 <tr> 
-<th><p>Start</p></th>
-<th><p>End</p></th>
-<th width="70%"><p>Conference Hall</p></th>
+<th style="background-color: #e6e6e6"><p><span style="background-color: #e6e6e6;"><p>Start</p></th>
+<th style="background-color: #e6e6e6"><p><span style="background-color: #e6e6e6;"><p>End</p></th>
+<th style="background-color: #e6e6e6"><p><span style="background-color: #e6e6e6;" width="70%"><p>Conference Hall</p></th>
 </tr>
 <tr>
 <td><p>9:00</p></td>
@@ -136,7 +136,7 @@
 </tr>
 </table>
 <p><h3>Program </h3></p>
-<table cellspacing="1" cellpadding="1" border="1" width="100%">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
 <tr>
 <th style="background-color: #e6e6e6"><p><span style="background-color: #e6e6e6;">Sessions </span></p></th>
 <th style="background-color: #e6e6e6"><p><span style="background-color: #e6e6e6;">Paper title </span></p></th>
