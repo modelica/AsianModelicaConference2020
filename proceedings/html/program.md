@@ -7,74 +7,74 @@
 <th style="background-color: #e6e6e6"> <p><span style="background-color: #e6e6e6;" width="70%">Conference Hall</span></p></th>
 </tr>
 <tr>
-<td><p>9:00</p></td>
-<td><p>9:30</p></td>
-<td><p>Registration</p></td>
+<td>9:00</td>
+<td>9:30</td>
+<td>Registration</td>
 </tr>
 <tr>
-<td><p>9:30</p></td>
-<td><p>9:45</p></td>
-<td><p>Opening</p></td>
+<td>9:30</td>
+<td>9:45</td>
+<td>Opening</td>
 </tr>
 <tr>
-<td><p>9:45</p></td>
-<td><p>10:45</p></td>
-<td><p>Keynote</p></td>
+<td>9:45</td>
+<td>10:45</td>
+<td>Keynote</td>
 </tr>
 <tr>
-<td><p>10:45</p></td>
-<td><p>11:00</p></td>
-<td><p>Break</p></td>
+<td>10:45</td>
+<td>11:00</td>
+<td>Break</td>
 </tr>
 <tr>
-<td><p>11:00</p></td>
-<td><p>12:00</p></td>
-<td><p>Session 1</p></td>
+<td>11:00</td>
+<td>12:00</td>
+<td>Session 1</td>
 </tr>
 <tr>
-<td><p>12:00</p></td>
-<td><p>13:30</p></td>
-<td><p>Lunch</p></td>
+<td>12:00</td>
+<td>13:30</td>
+<td>Lunch</td>
 </tr>
 <tr>
-<td><p>13:30</p></td>
-<td><p>14:30</p></td>
-<td><p>Session 2</p></td>
+<td>13:30</td>
+<td>14:30</td>
+<td>Session 2</td>
 </tr>
 <tr>
-<td><p>14:30</p></td>
-<td><p>14:45</p></td>
-<td><p>Break</p></td>
+<td>14:30</td>
+<td>14:45</td>
+<td>Break</td>
 </tr>
 <tr>
-<td><p>14:45</p></td>
-<td><p>15:45</p></td>
-<td><p>Session 3</p></td>
+<td>14:45</td>
+<td>15:45</td>
+<td>Session 3</td>
 </tr>
 <tr>
-<td><p>15:45</p></td>
-<td><p>16:00</p></td>
-<td><p>Break</p></td>
+<td>15:45</td>
+<td>16:00</td>
+<td>Break</td>
 </tr>
 <tr>
-<td><p>16:00</p></td>
-<td><p>17:15</p></td>
-<td><p>Vender Session</p></td>
+<td>16:00</td>
+<td>17:15</td>
+<td>Vender Session</td>
 </tr>
 <tr>
-<td><p>17:15</p></td>
-<td><p>17:30</p></td>
-<td><p>Break</p></td>
+<td>17:15</td>
+<td>17:30</td>
+<td>Break</td>
 </tr>
 <tr>
-<td><p>18:30</p></td>
-<td><p>18:45</p></td>
-<td><p>Networking</p></td>
+<td>18:30</td>
+<td>18:45</td>
+<td>Networking</td>
 </tr>
 <tr>
-<td><p>18:45</p></td>
-<td><p>19:00</p></td>
-<td><p>Closing the 1st day</p></td>
+<td>18:45</td>
+<td>19:00</td>
+<td>Closing the 1st day</td>
 </tr>
 </table>
 <p><h3>Friday, October 9</h3></p>
