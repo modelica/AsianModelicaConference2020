@@ -19,7 +19,7 @@
 <tr>
 <td>9:45</td>
 <td>10:45</td>
-<td>Keynote</td>
+<td>Keynote 1</td>
 </tr>
 <tr>
 <td>10:45</td>
@@ -34,7 +34,7 @@
 <tr>
 <td>12:00</td>
 <td>13:30</td>
-<td>Lunch</td>
+<td>Lunch Break</td>
 </tr>
 <tr>
 <td>13:30</td>
@@ -92,7 +92,7 @@
 <tr>
 <td>9:30</td>
 <td>10:30</td>
-<td>Keynote</td>
+<td>Keynote 2</td>
 </tr>
 <tr>
 <td>10:30</td>
@@ -107,7 +107,7 @@
 <tr>
 <td>11:45</td>
 <td>13:30</td>
-<td>Lunch</td>
+<td>Lunch Break</td>
 </tr>
 <tr>
 <td>13:30</td>
