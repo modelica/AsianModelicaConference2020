@@ -67,7 +67,7 @@
 <td>Break</td>
 </tr>
 <tr>
-<td>18:30</td>
+<td>17:30</td>
 <td>18:45</td>
 <td>Networking</td>
 </tr>
