@@ -18,12 +18,14 @@
         {% if site.logo %}
           <a href="{{ "/" | absolute_url }}"><img src="{{site.logo | relative_url}}" alt="Logo" /></a>
         {% endif %}
+        <p>
+           <a href="{{ "/proceedings/AsianModelica2020Proceedings.html" | absolute_url }}">Proceedings</a>
+        </p>        
       </header>
       <section>
         <p>
         <a href="{{ "/" | absolute_url }}">Home</a>          
         <a href="{{ "/proceedings/html/program.html" | absolute_url }}">Program</a>          
-        <a href="{{ "/proceedings/AsianModelica2020Proceedings.html" | absolute_url }}">Proceedings</a>
         </p>
       {{ content }}
       </section>
