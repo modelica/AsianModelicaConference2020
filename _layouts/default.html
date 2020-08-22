@@ -23,10 +23,14 @@
         </p>        
       </header>
       <section>
-        <p>
-        <a href="{{ "/" | absolute_url }}">Home</a>          
-        <a href="{{ "/proceedings/html/program.html" | absolute_url }}">Program</a>          
-        </p>
+        <table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tr>
+<th style="background-color: #e6e6e6"><p><span style="background-color: #e6e6e6;" width="30%"> <a href="{{ "/" | absolute_url }}">Home</a></span></p></th>  
+<th style="background-color: #e6e6e6"><p><span style="background-color: #e6e6e6;" width="30%"> <a href="{{ "/proceedings/html/program.html" | absolute_url }}">Program</a> </span></p></th>
+<th style="background-color: #e6e6e6"><p><span style="background-color: #e6e6e6;" width="40%"> <a href="{{ "/proceedings/AsianModelica2020Proceedings.html" | absolute_url }}">Abstracts</a></span></p></th>
+</tr>
+        </table>
+
       {{ content }}
       </section>
       <footer>
