@@ -10,7 +10,7 @@ The Asian Modelica Conference 2020 is converted to virtual conference considerin
 
 The Modelica Conference is the main event for users, library developers, tool vendors and language designers to share their knowledge and learn about the latest scientific and industrial progress related to all of the system simulation standards developed and maintained by the Modelica Association, in particular [Modelica](https://www.modelica.org/), the [Functional Mockup Interface (FMI)](http://www.fmi-standard.org/), the [System Structure and Parameterization (SSP)](https://ssp-standard.org/) standard and the [The Distributed Co-simulation Protocol (DCP)](https://dcp-standard.org/) standard.
 
-The program will cover modeling of complex physical and cyber-physical systems, as well as tools, for a wide range of research and industrial applications.
+The program will cover modeling of complex physical and cyber-physical systems, as well as tools, for a wide range of research and industrial applications. More details about the virtual conference platform will be available soon.
 
 We are looking forward to seeing you online.
 
@@ -96,11 +96,11 @@ A decision about the acceptance of sponsors and exhibitors will be based upon Mo
 
 *  August 7, 2020  Submission of final papers
 
-*  September 7, 2020  End of early registration
+*  August 25, 2020 Switching to virtual conference
 
 # Registration
 
-Virtual conference is free and there is no limitation to the participant number. Registration is still needed and will be available with free ticket through [Eventbrite](https://www.eventbrite.com/e/asian-modelica-conference-2020-tickets-85464726297).
+Virtual conference is free and there is no limitation to the participant number. Registration is still needed and will be available with free ticket through [Eventbrite](https://www.eventbrite.com/e/asian-modelica-conference-2020-tickets-85464726297). More details about the virtual conference platform on whova.com will be available soon.
 
 # Organization and Contact
 
