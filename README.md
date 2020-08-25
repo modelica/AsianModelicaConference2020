@@ -1,10 +1,10 @@
 
-## Important Update: Conference new date decided
+## Important Update: Converted to Virtual Conference
 
 -----------------------------------------------------------------     
 
 
-The Asian Modelica Conference 2020 will be held at [Nihonbashi Takashimaya Mitsui Building](https://www.nihonbashi-takashimaya-mitsui.jp/en/about/), Tokyo, Japan from October 8–9, 2020. It is organized by [Modelon K.K.](https://www.modelon.com/) in cooperation with Modelica Users Group Japan and [Modelica Association](https://www.modelica.org/).
+The Asian Modelica Conference 2020 is converted to virtual conference considering the current COVID-19 infection status at Tokyo. The conference date is the same as before, October 8–9, 2020. It is organized by [Modelon K.K.](https://www.modelon.com/) in cooperation with Modelica Users Group Japan and [Modelica Association](https://www.modelica.org/).
 
 # About the Conference
 
@@ -12,15 +12,13 @@ The Modelica Conference is the main event for users, library developers, tool ve
 
 The program will cover modeling of complex physical and cyber-physical systems, as well as tools, for a wide range of research and industrial applications.
 
-We are looking forward to seeing you in Tokyo.
+We are looking forward to seeing you online.
 
 Dr. Rui Gao and Dr. Yutaka Hirano
 
 General Chair (Modelon) and Program Chair (Toyota Motor Corporation)
 
 # Call for Papers
-
-You are encouraged to submit a full paper of at least 4 pages with a maximum of 10 pages. The full paper in PDF format should be submitted to the Conference Management System. Please see Author's Guide for further information. The final paper has to be submitted together with a one-page abstract.
 
 Papers and extended abstracts for presentations can be submitted via the EasyChair conference management system:
 
@@ -38,18 +36,9 @@ The paper submission form includes the option to mark suitable topics for your p
 
 The conference proceedings will be published by the Modelica Association on its website and by Linköping University Electronic Press. Each paper will be individually referenced by a DOI.
 
-# Conference Venue
-
-The conference will take place at Nihonbashi Takashimaya Mitsui Building near Tokyo station, which is easier to access through Metro and JR line. Detailed access information can be found at [Access](https://www.nihonbashi-takashimaya-mitsui.jp/en/access/). Preventive measures against the virus will be taken and up to 50% capacity of venue will be used for the conference.
-
-**Venue Address**
-
-5-1, Nihonbashi 2-chome, Chuo-ku, Tokyo
-
 # Scope of the Conference
 
-The Modelica conference will bring together people using any of the Modelica Association standards for modeling, simulation, and control applications, Modelica language designers, Modelica and/or FMI tool vendors and Modelica library developers. It provides Modelica users the opportunity to stay informed about the latest standards, library, and tool developments, and to get in touch with people working on similar modeling problems. The conference is planned for about 90 participants and will cover topics such as the following:
-
+The Modelica conference will bring together people using any of the Modelica Association standards for modeling, simulation, and control applications, Modelica language designers, Modelica and/or FMI tool vendors and Modelica library developers. It provides Modelica users the opportunity to stay informed about the latest standards, library, and tool developments, and to get in touch with people working on similar modeling problems. The conference will cover topics such as the following:
 
 *  Multi-engineering modeling and simulation with Modelica
 
@@ -93,7 +82,7 @@ In addition, the conference will include Vendors' exhibition.
 
 # Exhibition and Sponsorship
 
-To support the conference, and to get an opportunity to expose their Modelica- and/or FMI-related products and services, vendors will have the opportunity to sponsor the event and to participate in the exhibition.
+To support the conference, and to get an opportunity to expose their Modelica- and/or FMI-related products and services, vendors will have the opportunity to sponsor the event and to participate in the exhibition. The sponsorship and exhibition will be avialable at the virtual conference as well.
 
 A decision about the acceptance of sponsors and exhibitors will be based upon Modelica/FMI relevance of products and/or services at the time of application submission.
 
@@ -111,7 +100,7 @@ A decision about the acceptance of sponsors and exhibitors will be based upon Mo
 
 # Registration
 
-Early registration and pricing is available through [Eventbrite](https://www.eventbrite.com/e/asian-modelica-conference-2020-tickets-85464726297).
+Virtual conference is free and there is no limitation to the participant number. Registration is still needed and will be available with free ticket through [Eventbrite](https://www.eventbrite.com/e/asian-modelica-conference-2020-tickets-85464726297).
 
 # Organization and Contact
 
@@ -122,7 +111,7 @@ For more information and application, please contact the [organizer](mailto: mod
 
 *  Dr. Rui Gao, Modelon K.K., Tokyo, Japan
 
-*  Dr. Yutaka Hirano, Toyota Motor Corporation, Japan
+*  Dr. Yutaka Hirano, Toyota Research Institute - Advanced Development, Inc., Japan
 
 *  Dr. Hilding Elmqvist, Mogram, Lund, Sweden
 
@@ -138,4 +127,4 @@ For more information and application, please contact the [organizer](mailto: mod
 
 *  Dr. Rui Gao, Modelon K.K., Tokyo, Japan
 
-*  Dr. Yutaka Hirano, Toyota Motor Corporation, Japan
+*  Dr. Yutaka Hirano, Toyota Research Institute - Advanced Development, Inc., Japan
