@@ -104,7 +104,7 @@ Virtual conference is free and there is no limitation to the participant number.
 
 # Whova platform
 
-Virtual conference is managed by [Whova](https://whova.com/). The participants who registered at Eventbrite will receive email from [Whova](https://whova.com/) after September 17. The web link of the conference for any browser is:https://whova.com/portal/webapp/amcft_202010/. More details on the participant guide, speaker guide will be available soon.
+Virtual conference is managed by [Whova](https://whova.com/). The participants who registered at Eventbrite will receive email from [Whova](https://whova.com/) after September 17. The [web link] (https://whova.com/portal/webapp/amcft_202010/) of the conference works for any browser. More details on the participant guide, speaker guide will be available soon. Stay tuned.
 
 # Organization and Contact
 
