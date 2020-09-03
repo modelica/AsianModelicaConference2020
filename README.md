@@ -102,6 +102,10 @@ A decision about the acceptance of sponsors and exhibitors will be based upon Mo
 
 Virtual conference is free and there is no limitation to the participant number. Registration is still needed and will be available with free ticket through [Eventbrite](https://www.eventbrite.com/e/asian-modelica-conference-2020-tickets-85464726297). More details about the virtual conference platform on whova.com will be available soon.
 
+# Whova platform
+
+Virtual conference is managed by [Whova](https://whova.com/). The participants who registered at Eventbrite will receive email from [Whova](https://whova.com/) after September 17. The web link of the conference for any browser is:https://whova.com/portal/webapp/amcft_202010/. More details on the participant guide, speaker guide will be available soon.
+
 # Organization and Contact
 
 The conference is organized by Modelon K.K. in corporation with Modelica Users Group Japan and Modelica Association.
