@@ -153,7 +153,7 @@
 <tr><td><p align="left"><span>&nbsp; <h4>Session 2: Mechanical and Power Systems</h4></span></p></td></tr>
 <tr><td>&nbsp; 1. Reinforcement Learning for Thermostatically Controlled Loads Control using Modelica and Python</td></tr>
 <tr><td>&nbsp;<span style="font-style:italic">   Oleh Lukianykhin and Tetiana Bogodorova</span></td></tr>
-<tr><td>&nbsp; 2. A Model Based Approach for Simulation and Optimization of Microgrids</td></tr>
+<tr><td>&nbsp; 2. A Modelica-Based Solution for the Simulation and Optimization of Microgrids</td></tr>
 <tr><td>&nbsp;<span style="font-style:italic">   Stephane Velut, Johan Andreasson, Jiri Navratil and Marcus Åberg</span></td></tr>
 <tr><td>&nbsp; 3. Modelling and Control of Fast-Switching Solenoid Direct Injection Valves Using a New Magnetics Library</td></tr>
 <tr><td>&nbsp;<span style="font-style:italic">   Julian Mühlenhoff, Emanuel Rauer and Tom Ströhla</span></td></tr>
@@ -178,7 +178,7 @@
 <tr><td><p align="left"><span>&nbsp; <h4>Session 4: Energy and Process</h4></span></p></td></tr>
 <tr><td>&nbsp; 1. Dynamic Modeling and Simulation of Reformed methanol Fuel Cell System Using Modelica</td></tr>
 <tr><td>&nbsp;<span style="font-style:italic">   Xinyao Tian, Linlin Yang and Rui Gao</span></td></tr>
-<tr><td>&nbsp; 2. Co-simulation Framework of Modelica and Biochemical Simulator, SUMO, by Using C-API</td></tr>
+<tr><td>&nbsp; 2. Coupling of Modelica and Biochemical Simulator, SUMO, by Using C-API</td></tr>
 <tr><td>&nbsp;<span style="font-style:italic">   Satomi Nishida and Takayuki Ootsuki</span></td></tr>
 <tr><td>&nbsp; 3. Power and Temperature Prediction for Computer System Power Optimization</td></tr>
 <tr><td>&nbsp;<span style="font-style:italic">   Koji Nishi, Shota Takada and Takamichi Kaneda</span></td></tr>
