@@ -176,7 +176,7 @@
 <tr><td>&nbsp; 5. Modelon Solution Introduction</td></tr>
 
 <tr><td><p align="left"><span>&nbsp; <h4>Session 4: Energy and Process</h4></span></p></td></tr>
-<tr><td>&nbsp; 1. Dynamic Modeling and Simulation of Reformed methanol Fuel Cell System Using Modelica</td></tr>
+<tr><td>&nbsp; 1. Dynamic Modeling and Simulation of Reformed Methanol Fuel Cell System Using Modelica</td></tr>
 <tr><td>&nbsp;<span style="font-style:italic">   Xinyao Tian, Linlin Yang and Rui Gao</span></td></tr>
 <tr><td>&nbsp; 2. Coupling of Modelica and Biochemical Simulator, SUMO, by Using C-API</td></tr>
 <tr><td>&nbsp;<span style="font-style:italic">   Satomi Nishida and Takayuki Ootsuki</span></td></tr>
