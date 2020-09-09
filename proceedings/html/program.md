@@ -155,8 +155,8 @@
 <tr><td>&nbsp;<span style="font-style:italic">   Oleh Lukianykhin and Tetiana Bogodorova</span></td></tr>
 <tr><td>&nbsp; 2. A Model Based Approach for Simulation and Optimization of Microgrids</td></tr>
 <tr><td>&nbsp;<span style="font-style:italic">   Stephane Velut, Johan Andreasson, Jiri Navratil and Marcus Åberg</span></td></tr>
-<tr><td>&nbsp; 3. Modelling and Control of Fast-Switching Solenoid Direct Injection Valves</td></tr>
-<tr><td>&nbsp;<span style="font-style:italic">   Julian Mühlenhoff</span></td></tr>
+<tr><td>&nbsp; 3. Modelling and Control of Fast-Switching Solenoid Direct Injection Valves Using a New Magnetics Library</td></tr>
+<tr><td>&nbsp;<span style="font-style:italic">   Julian Mühlenhoff, Emanuel Rauer and Tom Ströhla</span></td></tr>
 <tr><td>&nbsp; 4. Q&A to Session 2</td></tr>
 
 <tr><td><p align="left"><span>&nbsp; <h4>Session 3: Mechanical and Environmental Control</h4></span></p></td></tr>
