@@ -1,5 +1,5 @@
 <html>
-<p><h3>Thursday, October 8</h3></p>
+<p><h3>Thursday, October 8 (Japan Standard Time, UTC+9) </h3></p>
 <table cellspacing="0" cellpadding="0" border="0" width="100%">
 <tr>
 <th style="background-color: #e6e6e6"><p><span style="background-color: #e6e6e6;">Start</span></p></th>  
@@ -77,7 +77,7 @@
 <td>Closing the 1st day</td>
 </tr>
 </table>
-<p><h3>Friday, October 9</h3></p>
+<p><h3>Friday, October 9 (Japan Standard Time, UTC+9)</h3></p>
 <table cellspacing="0" cellpadding="0" border="0" width="100%">
 <tr> 
 <th style="background-color: #e6e6e6"><p><span style="background-color: #e6e6e6;">Start</span></p></th>  
