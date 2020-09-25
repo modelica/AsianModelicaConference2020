@@ -138,7 +138,7 @@
 <table cellspacing="0" cellpadding="0" border="0" width="100%">
 <tr><th style="background-color: #e6e6e6"><p align="left"><span style="background-color: #e6e6e6;"><h3>Program</h3></span></p></th></tr>  
 <tr><td><p align="left"><span>&nbsp;<h4> Keynote 1</h4></span></p></td></tr>
-<tr><td>&nbsp; Expectation to the simulation for the development of the autonomous driving and advanced driver assistance system </td></tr>
+<tr><td>&nbsp; Smart Mobility in a Cloud-Connected World </td></tr>
 <tr><td>&nbsp;<span style="font-style:italic">   Dr. James Kuffner, TRI-AD </span></td></tr>
 
 <tr><td><p align="left"><span>&nbsp;<h4> Keynote 2</h4></span></p></td></tr>
